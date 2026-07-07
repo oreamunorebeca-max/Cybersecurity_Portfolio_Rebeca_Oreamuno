@@ -6,23 +6,27 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ## 👤 Let's Connect
 
-<table>
-  <tr>
-    <td>
-      <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-o-35608a147" alt="LinkedIn QR Code" width="150"/>
-    </td>
-    <td>
-      <strong>Rebeca Oreamuno Sequeira</strong><br>
-      Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA<br><br>
-      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visit my LinkedIn Profile</a><br>
-      ➔ <a href="https://www.credly.com/users/rebeca-melissa-oreamuno-sequeira" target="_blank">Verify my Badges on Credly</a>
-    </td>
-  </tr>
-</table>
+<blockquote>
+  <p align="left">
+    <table style="background-color: #e6f2f2; border: 1px solid #008080; border-radius: 8px; padding: 10px;">
+      <tr>
+        <td>
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/rebeca-o-35608a147" alt="LinkedIn QR Code" width="150"/>
+        </td>
+        <td style="padding-left: 15px; vertical-align: top;">
+          <strong style="color: #4b0082; font-size: 1.2em;">Rebeca Oreamuno Sequeira</strong><br>
+          <span style="color: #333;">Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA</span><br><br>
+          ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank" style="color: #008080; font-weight: bold; text-decoration: none;">Visit my LinkedIn Profile</a><br>
+          ➔ <a href="https://www.credly.com/users/rebeca-melissa-oreamuno-sequeira" target="_blank" style="color: #008080; font-weight: bold; text-decoration: none;">Verify my Badges on Credly</a>
+        </td>
+      </tr>
+    </table>
+  </p>
+</blockquote>
 
 ---
 
-## <font color="#800080">🔒 Cybersecurity & Networking (Cisco NetAcad)</font>
+# <span style="color: #800080;">🔒 Cybersecurity & Networking (Cisco NetAcad)</span>
 
 *   🎓 **[Official Cybersecurity Technician](./certificates/tecnico_oficial_ciberseguridad.pdf)**
 *   🌐 **[CyberOps Associate](./certificates/cyber_ops_associate_certificate.pdf)**
@@ -46,7 +50,7 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-## <font color="#800080">☁️ Cloud Computing & Architecture (AWS)</font>
+# <span style="color: #800080;">☁️ Cloud Computing & Architecture (AWS)</span>
 
 *   ☁️ **[AWS Cloud Practitioner Essentials](./certificates/aws_cloud_practitioner_essentials.pdf)**
 *   ⚡ **[AWS Technical Essentials](./certificates/aws_technical_essentials.pdf)**
@@ -68,14 +72,14 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-## <font color="#800080">📈 Productivity & Management</font>
+# <span style="color: #800080;">📈 Productivity & Management</span>
 
 *   🥇 **[Scrum Foundation Professional Certificate](./certificates/coursera_methodology_scrum.pdf)**
 *   💛 **[Lean Six Sigma Yellow Belt](./certificates/six_sigma_yellow_belt_rebeca_oreamuno_906768.pdf)**
 
 ---
 
-## <font color="#800080">🌐 Complementary Skills</font>
+# <span style="color: #800080;">🌐 Complementary Skills</span>
 
 *   🎨 **[Web Interface Design (UI/UX)](./certificates/diseno_interfases_web_ui_ux.pdf)**
 *   ⚡ **[Interaction with JavaScript](./certificates/interaccion_Javascript.pdf)**
