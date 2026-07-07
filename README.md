@@ -1,11 +1,10 @@
-# 🛡️ Certificaciones Técnicas & Credenciales Profesionales
+# 🛡️ Cybersecurity, Cloud Infrastructure & CCNA Portfolio
 
-¡Bienvenido a mi repositorio de credenciales! Aquí se recopilan y validan mis certificaciones y habilidades en **Ciberseguridad, Infraestructura Cloud (AWS), Redes Cisco y Gestión de Proyectos**.
+This repository contains my professional credentials and certifications in **Cybersecurity, AWS Cloud, Cisco Networking, and Project Management**.
 
 ---
-## 👤 Conectemos en LinkedIn
 
-Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos, puedes escanear el código QR o hacer clic en el enlace para ir directo a mi perfil.
+## 👤 Let's Connect
 
 <table>
   <tr>
@@ -15,72 +14,68 @@ Si deseas conocer más sobre mi trayectoria profesional o validar mis proyectos,
     <td>
       <strong>Rebeca Oreamuno Sequeira</strong><br>
       Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA<br><br>
-      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visitar mi Perfil de LinkedIn</a>
+      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visit my LinkedIn Profile</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Documentación Unificada
-📄 **[Haz clic aquí para abrir el Portafolio Completo en PDF con todos mis Títulos Respaldados](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
+## 🔒 Cybersecurity & Networking (Cisco NetAcad)
+
+*   🎓 **[Técnico Oficial Ciberseguridad](./certificates/TécnicoOficialCiberseguridad.pdf)**
+*   🌐 **[CyberOps Associate](./certificates/CertificadoCyberOpsAssociate.pdf)**
+*   🛡️ **[Hacker Ético](./certificates/CertificadoHackerético.pdf)**
+*   📡 **[Network Defense](./certificates/CertificadoNetworkDefense.pdf)**
+*   🎯 **[Analista Junior Ciberseguridad](./certificates/CertificadoAnalistaJuniorCiberseguridad.pdf)**
+*   💻 **[Endpoint Security](./certificates/CertificadoEndpointSecurity.pdf)**
+*   ⚠️ **[Cyber Threat Management](./certificates/CertificadoCyberThreatManagement.pdf)**
+*   🧱 **[Fundamentos Ciberseguridad](./certificates/CertificadoFundamentosCiberseguridad.pdf)**
+*   ⚙️ **[Dispositivos Red Configuración Inicial](./certificates/CertificadoDispositivosRedConfiguraciónInicial.pdf)**
+*   📶 **[Conceptos Básicos de Redes](./certificates/CertificadoConceptosBásicosdeRedes.pdf)**
+*   🐧 **[Linux Essentials](./certificates/CertificadoLinux.pdf)**
+*   🐍 **[Fundamentos Python 1](./certificates/CertificadoFundamentosPython1.pdf)**
+*   🐍 **[Fundamentos Python 2](./certificates/CertificadoFundamentosPython2.pdf)**
+*   🇬🇧 **[Inglés para TI 1](./certificates/CertificadoInglésparaTI1.pdf)**
+*   🇬🇧 **[Inglés para TI 2](./certificates/CertificadoInglésparaTI2.pdf)**
+*   🟢 **Cisco CCNA Path:**
+    *   *CCNA 1:* **[Introducción Redes](./certificates/CertificadoCCNAIntroducciónredes.pdf)**
+    *   *CCNA 2:* **[Fundamentos Conmutación, Enrutamiento, Redes Inalámbricas](./certificates/CertificadoCCNA2FundamentosConmutación,EnrutamientoRedesInalámbricas.pdf)**
+    *   *CCNA 3:* **[Redes Empresariales, Seguridad, Automatización](./certificates/CertificadoCCNA3RedesEmpresarialesSeguridadAutomatización.pdf)**
 
 ---
 
-## 🔒 Ciberseguridad & Redes (Cisco NetAcad)
+## ☁️ Cloud Computing & Architecture (AWS)
 
-Especialización técnica avanzada en operaciones de seguridad (SOC), defensa perimetral, análisis de tráfico y fundamentos de automatización con Python y Linux.
-
-* 🎓 **[Certificado Oficial de Todo Técnico en Ciberseguridad](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** `Título Oficial - Graduada con Excelencia`
-* 🌐 **[Certificado CyberOps Associate](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** `Credencial de Peso`
-* 🛡️ **[Certificado Hacker Ético](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** `Credencial de Peso`
-* 📡 **[Certificado Network Defense](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** `Credencial de Peso`
-* 🎯 **[Certificado Analista Junior en Ciberseguridad](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 💻 **[Certificado Endpoint Security](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* ⚠️ **[Certificado Cyber Threat Management](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🧱 **[Certificado Fundamentos de Ciberseguridad](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🟢 **Ruta Completa Cisco CCNA:**
-    * *CCNA 1:* **[Introducción a Redes](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-    * *CCNA 2:* **[Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-    * *CCNA 3:* **[Redes Empresariales, Seguridad y Automatización](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* ⚙️ **[Certificado Dispositivos de Red y Configuración Inicial](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 📶 **[Certificado Conceptos Básicos de Redes](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🐧 **[Certificado Linux Essentials](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🐍 **[Certificado Fundamentos Python 1](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🐍 **[Certificado Fundamentos Python 2](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🇬🇧 **[Certificado Inglés para TI 1](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🇬🇧 **[Certificado Inglés para TI 2](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
+*   ☁️ **[AWS Cloud Practitioner Essentials (Español LATAM)](./certificates/AWSCloudPractitionerEssentials(EspañolLATAM).pdf)**
+*   ⚡ **[AWS Technical Essentials (Español LATAM)](./certificates/AWSTechnicalEssentials(EspañolLATAM).pdf)**
+*   🏗️ **[Fundamentos Cómputo en la Nube](./certificates/CertificadofundamentosComputoenlaNube.pdf)**
+*   📊 **[Amazon DynamoDB](./certificates/AmazonDynamoDB.pdf)**
+*   ⚙️ **[Introduction to Amazon API Gateway](./certificates/IntroductiontoAmazonAPIGateway.pdf)**
+*   📡 **[Introduction to Amazon CloudFront](./certificates/IntroductiontoAmazonCloudFront.pdf)**
+*   🖥️ **[Introduction to Amazon EC2](./certificates/IntroductiontoAmazonEC2.pdf)**
+*   📦 **[Introduction to Amazon Simple Storage Service (S3)](./certificates/IntroductiontoAmazonSimpleStorageService(S3).pdf)**
+*   🌐 **[Introduction to Amazon VPC](./certificates/IntroductiontoAmazonVPC.pdf)**
+*   🔑 **[Introduction to AWS Identity and Access Management (IAM)](./certificates/IntroductiontoAWSIdentityandAccessManagement(IAM).pdf)**
+*   🔒 **[Introduction to AWS Key Management Service](./certificates/IntroductiontoAWSKeyManagementService.pdf)**
+*   🚀 **[Introduction to AWS Lambda](./certificates/IntroductiontoAWSLambda.pdf)**
+*   🤖 **[Introduction to Generative AI - Art of the Possible (Español LATAM)](./certificates/IntroductiontoGenerativeAI-ArtofthePossible(EspañolLATAM).pdf)**
+*   📋 **[Job Roles in the Cloud AWS](./certificates/JobRolesintheCloudAWS.pdf)**
+*   📝 **[Official Practice Question Set AWS](./certificates/OfficialPracticeQuestionSetAWS.pdf)**
+*   🔍 **[Performing a Basic Audit of your AWS Environment](./certificates/PerformingaBasicAuditofyourAWSEnvironment.pdf)**
+*   💳 **[AWS Billing and Cost Management](./certificates/AWSBillingandCostManagement.pdf)**
 
 ---
 
-## ☁️ Cloud Computing & Arquitectura (Amazon Web Services)
+## 📈 Productivity & Management
 
-Competencias en infraestructura global de AWS, gobernanza, seguridad en la nube (IAM/KMS), redes híbridas y servicios serverless modernos.
-
-* 🎓 **[AWS Certified Cloud Practitioner](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** `Certificación Oficial`
-* ⚡ **[AWS Technical Essentials](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 💡 **[AWS Cloud Practitioner Essentials](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🌐 **[Introduction to Amazon VPC](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🔑 **[Introduction to AWS Identity and Access Management (IAM)](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🔒 **[Introduction to AWS Key Management Service (KMS)](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🚀 **[Introduction to AWS Lambda](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* ⚙️ **[Introduction to Amazon API Gateway](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 📦 **[Introduction to Amazon Simple Storage Service (S3)](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🖥️ **[Introduction to Amazon EC2](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 📊 **[Amazon DynamoDB Core Concepts](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 📡 **[Introduction to Amazon CloudFront](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 📝 **[Performing a Basic Audit of your AWS Environment](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 💵 **[AWS Billing and Cost Management](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🤖 **[Introduction to Generative AI - Art of the Possible](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 💼 **[Job Roles in the Cloud AWS](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* 🎯 **[Official Practice Question Set AWS](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
-* ☁️ **[Certificado Fundamentos Cómputo en la Nube](./Portfolio%202%20Rebeca%20Oreamuno.pdf)**
+*   🥇 **[Scrum Foundation Professional Certificate](./certificates/CourseraMetodolíaScrumYUM8ODAZX0SB.pdf)**
+*   💛 **[Lean Six Sigma Yellow Belt](./certificates/SixSigmaYellowBelt-RebecaOreamuno-906768.pdf)**
 
 ---
 
-## 📈 Productividad & Gestión de Proyectos
+## 🌐 Complementary Skills
 
-Metodologías ágiles y marcos de optimización de procesos aplicados a flujos de trabajo técnicos.
-
-1. 🥇 **[Scrum Foundation Professional Certificate](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** | IBM / Coursera *(ID: YUM8ODAZX0SB)*
-2. 💛 **[Lean Six Sigma Yellow Belt](./Portfolio%202%20Rebeca%20Oreamuno.pdf)** | Certificación Oficial *(ID: 906768)*
+*   🎨 **[Web Interface Design (UI/UX)](./certificates/DiseñoInterfasesWebUIUX.pdf)**
+*   ⚡ **[Interacción con JavaScript](./certificates/InteracciónconJavaScript.pdf)**
+*   🌐 **[WordPress](./certificates/WordPress.pdf)**
