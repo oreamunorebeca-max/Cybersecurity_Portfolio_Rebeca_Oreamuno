@@ -14,14 +14,15 @@ This repository contains my professional credentials and certifications in **Cyb
     <td>
       <strong>Rebeca Oreamuno Sequeira</strong><br>
       Junior Cybersecurity Analyst | SOC | AWS Cloud Practitioner | CCNA<br><br>
-      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visit my LinkedIn Profile</a>
+      ➔ <a href="https://www.linkedin.com/in/rebeca-o-35608a147" target="_blank">Visit my LinkedIn Profile</a><br>
+      ➔ <a href="https://www.credly.com/users/rebeca-melissa-oreamuno-sequeira" target="_blank">Verify my Badges on Credly</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔒 Cybersecurity & Networking (Cisco NetAcad)
+## <font color="#800080">🔒 Cybersecurity & Networking (Cisco NetAcad)</font>
 
 *   🎓 **[Official Cybersecurity Technician](./certificates/tecnico_oficial_ciberseguridad.pdf)**
 *   🌐 **[CyberOps Associate](./certificates/cyber_ops_associate_certificate.pdf)**
@@ -45,7 +46,7 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-## ☁️ Cloud Computing & Architecture (AWS)
+## <font color="#800080">☁️ Cloud Computing & Architecture (AWS)</font>
 
 *   ☁️ **[AWS Cloud Practitioner Essentials](./certificates/aws_cloud_practitioner_essentials.pdf)**
 *   ⚡ **[AWS Technical Essentials](./certificates/aws_technical_essentials.pdf)**
@@ -67,14 +68,14 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-## 📈 Productivity & Management
+## <font color="#800080">📈 Productivity & Management</font>
 
 *   🥇 **[Scrum Foundation Professional Certificate](./certificates/coursera_methodology_scrum.pdf)**
 *   💛 **[Lean Six Sigma Yellow Belt](./certificates/six_sigma_yellow_belt_rebeca_oreamuno_906768.pdf)**
 
 ---
 
-## 🌐 Complementary Skills
+## <font color="#800080">🌐 Complementary Skills</font>
 
 *   🎨 **[Web Interface Design (UI/UX)](./certificates/diseno_interfases_web_ui_ux.pdf)**
 *   ⚡ **[Interaction with JavaScript](./certificates/interaccion_Javascript.pdf)**
