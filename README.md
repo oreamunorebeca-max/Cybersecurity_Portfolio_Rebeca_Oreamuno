@@ -26,7 +26,7 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-# <span style="color: #800080;">🔒 Cybersecurity & Networking (Cisco NetAcad)</span>
+<h2><font color="#800080">🔒 Cybersecurity & Networking (Cisco NetAcad)</font></h2>
 
 *   🎓 **[Official Cybersecurity Technician](./certificates/tecnico_oficial_ciberseguridad.pdf)**
 *   🌐 **[CyberOps Associate](./certificates/cyber_ops_associate_certificate.pdf)**
@@ -50,7 +50,7 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-# <span style="color: #800080;">☁️ Cloud Computing & Architecture (AWS)</span>
+<h2><font color="#800080">☁️ Cloud Computing & Architecture (AWS)</font></h2>
 
 *   ☁️ **[AWS Cloud Practitioner Essentials](./certificates/aws_cloud_practitioner_essentials.pdf)**
 *   ⚡ **[AWS Technical Essentials](./certificates/aws_technical_essentials.pdf)**
@@ -72,14 +72,14 @@ This repository contains my professional credentials and certifications in **Cyb
 
 ---
 
-# <span style="color: #800080;">📈 Productivity & Management</span>
+<h2><font color="#800080">📈 Productivity & Management</font></h2>
 
 *   🥇 **[Scrum Foundation Professional Certificate](./certificates/coursera_methodology_scrum.pdf)**
 *   💛 **[Lean Six Sigma Yellow Belt](./certificates/six_sigma_yellow_belt_rebeca_oreamuno_906768.pdf)**
 
 ---
 
-# <span style="color: #800080;">🌐 Complementary Skills</span>
+<h2><font color="#800080">🌐 Complementary Skills</font></h2>
 
 *   🎨 **[Web Interface Design (UI/UX)](./certificates/diseno_interfases_web_ui_ux.pdf)**
 *   ⚡ **[Interaction with JavaScript](./certificates/interaccion_Javascript.pdf)**
